@@ -1,11 +1,16 @@
-## Welcome to Safynaz Abdelrahem's Profile! 👋
-
-![Header Image](https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif)
+<p align="center">
+  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" alt="Header Image" width="200"/>
+  <h1>Welcome to Safynaz Abdelrahem's Profile! 👋</h1>
+  <h3>MERN Stack Developer</h3>
+  <p align="center">
+    <img src="https://media.giphy.com/media/26AOVL5pGeyuDqNoc/giphy.gif" alt="MERN Animation" width="300"/>
+  </p>
+</p>
 
 ### Full-stack Developer
 
 - 🌟 A dedicated Full Stack Developer specialized in the MERN stack.
-- 🎓 Graduated with honors in Translation from the Faculty of Arts, achieving a top-tier distinction.
+- 🎓 Graduated with honors in Translation from the Faculty of Arts, class 2023 with GPA 3:71.
 - 📜 Successfully completed the prestigious 9-month ITI diploma, excelling in web development and software engineering.
 - 🚀 Passionate about continuous learning and exploring the latest in technology to enhance my skill set.
 - 💬 Ask me about my deep knowledge and hands-on experience with HTML, CSS, JavaScript, jQuery, Bootstrap, Node.js, Express.js, Tailwind CSS, MUI, React.js, TypeScript, and more!
