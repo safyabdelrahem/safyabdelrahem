@@ -1,5 +1,5 @@
 <p align="center">
-    <h1 style="font-size: 2.5em; color: #333; font-family: Arial, sans-serif;">Welcome to Safynaz Abdelrahem's Profile! 👋</h1>
+    <span style="font-size: 2.5em; color: #333; font-family: Arial, sans-serif;">Welcome to Safynaz Abdelrahem's Profile! <span style="font-size: 2.5em; animation: wave 1s infinite;">👋</span></span>
     <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" alt="Header Image" width="200" style="vertical-align: middle;"/>
 </p>
 
@@ -37,3 +37,11 @@
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:safynazabdelraheem@gmail.com)
 
 Feel free to explore my repositories and get in touch if you would like to collaborate on any project or if you have any questions. Happy coding!
+
+<style>
+    @keyframes wave {
+        0% { transform: rotate(0deg); }
+        50% { transform: rotate(10deg); }
+        100% { transform: rotate(0deg); }
+    }
+</style>
