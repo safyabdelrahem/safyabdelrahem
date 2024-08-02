@@ -1,8 +1,42 @@
-
-   <h1  align="center" style="font-size: 2.5em; color: #333;">Welcome to Safynaz Abdelrahem's Profile! 👋</h1>
 <p align="center">
-  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" alt="MERN Animation" width="400" style="margin-top: 10px;"/>
+  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" alt="Header Image" width="200" style="vertical-align: middle;"/>
+  <span style="display: inline-block; vertical-align: middle; text-align: left; margin-left: 20px;">
+    <h1 style="font-size: 2.5em; color: #333; font-family: Arial, sans-serif;">Welcome to Safynaz Abdelrahem's Profile! 👋</h1>
+    <div style="position: relative; font-size: 1.5em; color: #007ACC; font-family: Arial, sans-serif;">
+      <p id="animated-text" style="margin: 0;"></p>
+    </div>
+  </span>
 </p>
+
+<script>
+  // JavaScript for animation
+  const texts = ["MERN Stack Developer", "Passionate Coder", "Tech Enthusiast"];
+  let i = 0;
+  let j = 0;
+  const speed = 100;
+  const element = document.getElementById("animated-text");
+
+  function type() {
+    if (i < texts.length) {
+      const text = texts[i];
+      if (j < text.length) {
+        element.textContent += text.charAt(j);
+        j++;
+        setTimeout(type, speed);
+      } else {
+        setTimeout(() => {
+          element.textContent = "";
+          j = 0;
+          i = (i + 1) % texts.length;
+          type();
+        }, 2000);
+      }
+    }
+  }
+
+  type();
+</script>
+
 
 ### Full-stack Developer
 
