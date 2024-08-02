@@ -1,6 +1,9 @@
 <p align="center">
-    <span style="font-size: 2.5em; color: #333; font-family: Arial, sans-serif;">Welcome to Safynaz Abdelrahem's Profile! <span style="font-size: 2.5em; animation: wave 1s infinite;">👋</span></span>
+    <span style="font-size: 2.5em; color: #333; font-family: Arial, sans-serif;">Welcome to Safynaz Abdelrahem's Profile! 👋</span>
+    <br/>
     <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" alt="Header Image" width="200" style="vertical-align: middle;"/>
+    <br/>
+    <span style="display: inline-block; font-size: 1.5em; color: #FF5733; font-family: Arial, sans-serif; animation: typewriter 3s steps(40, end) infinite;">MERN Stack Developer</span>
 </p>
 
 ### Full-stack Developer
@@ -39,9 +42,8 @@
 Feel free to explore my repositories and get in touch if you would like to collaborate on any project or if you have any questions. Happy coding!
 
 <style>
-    @keyframes wave {
-        0% { transform: rotate(0deg); }
-        50% { transform: rotate(10deg); }
-        100% { transform: rotate(0deg); }
+    @keyframes typewriter {
+        0% { width: 0; }
+        100% { width: 100%; }
     }
 </style>
