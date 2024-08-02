@@ -2,46 +2,14 @@
   <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" alt="Header Image" width="200" style="vertical-align: middle;"/>
   <span style="display: inline-block; vertical-align: middle; text-align: left; margin-left: 20px;">
     <h1 style="font-size: 2.5em; color: #333; font-family: Arial, sans-serif;">Welcome to Safynaz Abdelrahem's Profile! 👋</h1>
-    <div style="position: relative; font-size: 1.5em; color: #007ACC; font-family: Arial, sans-serif;">
-      <p id="animated-text" style="margin: 0;"></p>
-    </div>
+    <h3 style="font-size: 2em; color: #007ACC; font-family: Arial, sans-serif;">MERN Stack Developer</h3>
   </span>
 </p>
-
-<script>
-  // JavaScript for animation
-  const texts = ["MERN Stack Developer", "Passionate Coder", "Tech Enthusiast"];
-  let i = 0;
-  let j = 0;
-  const speed = 100;
-  const element = document.getElementById("animated-text");
-
-  function type() {
-    if (i < texts.length) {
-      const text = texts[i];
-      if (j < text.length) {
-        element.textContent += text.charAt(j);
-        j++;
-        setTimeout(type, speed);
-      } else {
-        setTimeout(() => {
-          element.textContent = "";
-          j = 0;
-          i = (i + 1) % texts.length;
-          type();
-        }, 2000);
-      }
-    }
-  }
-
-  type();
-</script>
-
 
 ### Full-stack Developer
 
 - 🌟 A dedicated Full Stack Developer specialized in the MERN stack.
-- 🎓 Graduated with honors in Translation from the Faculty of Arts, class 2023 with GPA 3:71.
+- 🎓 Graduated with honors in Translation from the Faculty of Arts, class 2023 with GPA 3.71.
 - 📜 Successfully completed the prestigious 9-month ITI diploma, excelling in web development and software engineering.
 - 🚀 Passionate about continuous learning and exploring the latest in technology to enhance my skill set.
 - 💬 Ask me about my deep knowledge and hands-on experience with HTML, CSS, JavaScript, jQuery, Bootstrap, Node.js, Express.js, Tailwind CSS, MUI, React.js, TypeScript, and more!
