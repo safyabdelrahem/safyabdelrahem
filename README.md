@@ -1,11 +1,5 @@
-<p align="center">
- 
 
-    <h1 style="font-size: 2.5em; color: #333;">Welcome to Safynaz Abdelrahem's Profile! 👋</h1>
-   
-
-</p>
-
+   <h1  align="center" style="font-size: 2.5em; color: #333;">Welcome to Safynaz Abdelrahem's Profile! 👋</h1>
 <p align="center">
   <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" alt="MERN Animation" width="400" style="margin-top: 10px;"/>
 </p>
