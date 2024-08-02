@@ -3,7 +3,7 @@
 
     <h1 style="font-size: 2.5em; color: #333;">Welcome to Safynaz Abdelrahem's Profile! 👋</h1>
    
-  </span>
+
 </p>
 
 <p align="center">
