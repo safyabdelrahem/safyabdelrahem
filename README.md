@@ -1,34 +1,16 @@
+
+<h3 align="center">
+ Welcome to Safynaz Abdelrahem's Profile!
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+</h3>
+
+<img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="300" height="240">
+
+<!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-    <h1 style="font-size: 2.5em; color: #333; font-family: Arial, sans-serif;">Welcome to Safynaz Abdelrahem's Profile! 👋</h1>
-    <br/>
-    <span style="display: flex; align-items: center; justify-content: center;">
-        <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" alt="Header Image" width="300" style="margin-right: 20px;"/>
-        <span class="animated-text">MERN Stack Developer</span>
-    </span>
-</p>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Full-stack%20web%20developer;Always%20learning%20new%20technologies&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
+</p> 
 
-<style>
-    .animated-text {
-        font-size: 2em;
-        color: #FF5733;
-        font-family: Arial, sans-serif;
-        white-space: nowrap;
-        display: inline-block;
-        overflow: hidden;
-        border-right: .15em solid #FF5733; /* The color of the cursor */
-        animation: typing 4s steps(30, end), blink-caret .75s step-end infinite;
-    }
-
-    @keyframes typing {
-        from { width: 0; }
-        to { width: 100%; }
-    }
-
-    @keyframes blink-caret {
-        from, to { border-color: transparent; }
-        50% { border-color: #FF5733; }
-    }
-</style>
 
 
 ### Full-stack Developer
@@ -52,6 +34,8 @@
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=sql&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+
+<img align="left" src="[https://github-readme-stats.vercel.app/api/top-langs?username=AngeloEsam&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark](https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif)" alt="gif" />
 
 ### 🔥 GitHub Stats
 
