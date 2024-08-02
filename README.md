@@ -1,13 +1,13 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" alt="Header Image" width="200" style="vertical-align: middle;"/>
-  <span style="display: inline-block; vertical-align: middle; text-align: left; margin-left: 20px;">
+ 
+
     <h1 style="font-size: 2.5em; color: #333;">Welcome to Safynaz Abdelrahem's Profile! 👋</h1>
-    <h3 style="font-size: 1.5em; color: #007ACC;">MERN Stack Developer</h3>
+   
   </span>
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o6fJ6GQ2WwURrcE9K/giphy.gif" alt="MERN Animation" width="400" style="margin-top: 10px;"/>
+  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" alt="MERN Animation" width="400" style="margin-top: 10px;"/>
 </p>
 
 ### Full-stack Developer
