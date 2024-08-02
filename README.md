@@ -2,29 +2,34 @@
     <h1 style="font-size: 2.5em; color: #333; font-family: Arial, sans-serif;">Welcome to Safynaz Abdelrahem's Profile! 👋</h1>
     <br/>
     <span style="display: flex; align-items: center; justify-content: center;">
-        <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" alt="Header Image" width="250" style="margin-right: 20px;"/>
-        <span style="font-size: 2em; color: #FF5733; font-family: Arial, sans-serif; white-space: nowrap;">
-            <span id="animated-text"></span>
-        </span>
+        <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" alt="Header Image" width="300" style="margin-right: 20px;"/>
+        <span class="animated-text">MERN Stack Developer</span>
     </span>
 </p>
 
-<script>
-  // JavaScript for animation
-  const text = "MERN Stack Developer";
-  const element = document.getElementById("animated-text");
-  let index = 0;
-
-  function type() {
-    if (index < text.length) {
-      element.textContent += text.charAt(index);
-      index++;
-      setTimeout(type, 100);
+<style>
+    .animated-text {
+        font-size: 2em;
+        color: #FF5733;
+        font-family: Arial, sans-serif;
+        white-space: nowrap;
+        display: inline-block;
+        overflow: hidden;
+        border-right: .15em solid #FF5733; /* The color of the cursor */
+        animation: typing 4s steps(30, end), blink-caret .75s step-end infinite;
     }
-  }
 
-  type();
-</script>
+    @keyframes typing {
+        from { width: 0; }
+        to { width: 100%; }
+    }
+
+    @keyframes blink-caret {
+        from, to { border-color: transparent; }
+        50% { border-color: #FF5733; }
+    }
+</style>
+
 
 ### Full-stack Developer
 
