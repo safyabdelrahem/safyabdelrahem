@@ -7,7 +7,9 @@
 <img align="right" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" alt=" GIF" width="300" height="240">
 
  
-
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Welcome+to+my+profile;I+am+a+Full-stack+Developer;Always+eager+to+learn&font=Fira+Code&center=true&width=500&height=60&color=4CAF50&vCenter=true&size=20&pause=1000"></a>
+</p> 
 
 
 ### Full-stack Developer
