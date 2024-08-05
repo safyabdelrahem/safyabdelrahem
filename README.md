@@ -34,7 +34,7 @@
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=sql&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
 
-<img align="left" src="[https://github-readme-stats.vercel.app/api/top-langs?username=AngeloEsam&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark](https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif)" alt="gif" />
+
 
 ### 🔥 GitHub Stats
 
