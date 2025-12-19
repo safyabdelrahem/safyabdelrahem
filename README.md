@@ -12,9 +12,9 @@
 </p> 
 
 
-### Full-stack Developer
+### Front End Developer
 
-- 🌟 A dedicated Full Stack Developer specialized in the MERN stack.
+- 🌟 A dedicated Full Stack Developer specialized in Front end .
 - 🎓 Graduated with honors in Translation from the Faculty of Arts, class 2023 with GPA 3.71.
 - 📜 Successfully completed the prestigious 9-month ITI diploma, excelling in web development and software engineering.
 - 🚀 Passionate about continuous learning and exploring the latest in technology to enhance my skill set.
