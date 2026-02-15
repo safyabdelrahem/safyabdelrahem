@@ -41,16 +41,7 @@
 ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter&logoColor=white)
 ![React Native](https://img.shields.io/badge/-React%20Native-20232A?style=flat&logo=react&logoColor=61DAFB)
 
----
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=safyabdelrahem&show_icons=true&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=safyabdelrahem&layout=compact&theme=radical" />
-</p>
-
----
 
 ## 🌐 Connect With Me
 
